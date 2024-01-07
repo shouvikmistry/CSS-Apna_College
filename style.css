@@ -1,3 +1,27 @@
+/* Universal Selector */
+*{
+    font-style: italic;
+}
+/* Element Selector */
 h1 {
     color: green;
+}
+p{
+    color: red;
+}
+button{
+    color: brown;
+    background-color: greenyellow;
+}
+
+body{
+    background-color: rgb(206, 213, 114);
+}
+/* ID selector */
+#Myid{
+    color: aqua;
+}
+/* Class Selector */
+.Myclass{
+    color:cornflowerblue;
 }
