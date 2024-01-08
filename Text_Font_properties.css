@@ -1,0 +1,26 @@
+p{
+    text-align: center;
+    font-weight: lighter;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: red wavy underline;
+    font-weight: normal;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+}
+#h1{
+    text-align: start;
+    text-decoration: none;
+    font-weight: 100;}
+
+#h2{font-weight: 250;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#h3{font-weight: 600;}
+
+#h4{font-weight: 900;}
