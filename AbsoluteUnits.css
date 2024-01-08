@@ -1,0 +1,16 @@
+#one{
+    font-size: 25px;
+}
+
+#two{
+    font-size: 50px;
+}
+
+#three{
+    font-size: 70px;
+}
+
+#line {
+    line-height: 150%;
+    text-transform: capitalize;
+}
