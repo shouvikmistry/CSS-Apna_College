@@ -18,3 +18,37 @@ h1 {
     text-align: center;
     background-color: blue;
 }
+
+#div1{
+    margin: 20px;
+    height: 100px;
+    width: 100px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    text-align: center;
+    background-color: violet;
+}
+#div2{
+    margin: 20px;
+    height: 100px;
+    width: 100px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    text-align: center;
+    background-color: violet;
+}
+#div3{
+    margin: 20px;
+    height: 100px;
+    width: 100px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    text-align: center;
+    background-color: violet;
+}
