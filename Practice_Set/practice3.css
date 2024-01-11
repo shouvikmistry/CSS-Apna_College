@@ -1,0 +1,33 @@
+#div1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+#parrent{
+    padding: 15px;
+    height: 312px;
+    width: 100px;
+    background-color: black;
+}
+#child1{
+    margin: 6px;
+    height: 90px;
+    width: 90px;
+    background-color: red;
+    border-radius: 50%;
+}
+#child2{
+    margin: 6px;
+    height: 90px;
+    width: 90px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+#child3{
+    margin: 6px;
+    height: 90px;
+    width: 90px;
+    background-color: green;
+    border-radius: 50%;
+}
