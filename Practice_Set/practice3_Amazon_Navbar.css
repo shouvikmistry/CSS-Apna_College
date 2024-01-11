@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#navbar{
+    color: white;
+    height: 60px;
+    width: 100%;
+    background-color: #0f1111;
+}
+a{
+    margin-right: 200px;
+    color: white;
+    text-decoration: none;
+}
+#Logo{
+    color: #f08804;
+    font-size: 25px;
+
+}
+
+#SearchButton{
+    color: white;
+    background-color: #f08804;
+}
