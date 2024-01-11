@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#navbar{
+    color: white;
+    height: 60px;
+    width: 100%;
+    background-color: #0f1111;
+}
+a{
+    margin-right: 200px;
+    color: white;
+    text-decoration: none;
+}
+#Logo{
+    color: #f08804;
+    font-size: 25px;
+
+}
+
+#SearchButton{
+    color: white;
+    background-color: #f08804;
+}
+#content{
+    height: 550px;
+}
+.contentBox{
+    display: inline-block;
+}
+#div1{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255,0,0,0.25);
+    border: #0f1111 2px solid;
+}
+#div2{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 72, 255, 0.625);
+    border: #0f1111 2px solid;
+}
+#div3{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 255, 76, 0.862);
+    border: #0f1111 2px solid;
+}
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
