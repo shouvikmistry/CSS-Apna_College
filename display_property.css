@@ -1,0 +1,27 @@
+#box1{
+    background-color: rgba(255, 0, 0, 0.25);/*Apha Channel*/
+}
+#box2{
+    background-color: rgba(255, 0, 0, 0.65);
+    /* background-color: green; */
+}
+#box3{
+    background-color: rgba(255, 0, 0, 0.75);
+    background-color: red;
+}
+div{
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: red;
+    /* display: inline; */
+}
+button{
+    display: block;    
+}
+#box2{
+    /* display: none; */
+    /* visibility: hidden; */
+}
