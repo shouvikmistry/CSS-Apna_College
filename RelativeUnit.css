@@ -1,0 +1,22 @@
+#box1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px;
+}
+
+#box2{
+    height: 50px;
+    /* width: 50px; */
+    /* width: 30%; */
+    background-color: yellow;
+    margin-left: 10%; /* margin 10% of width */
+    font-size:0.5em ; /* font size 0.5em is 50% of parent font size = 10px */
+
+    width: 5em; /* width 5em is 500% of own font size = 5*10px = 50px */
+
+    width: 5rem; /* width 5rem is 500% of Root element font size = 5*16px = 80px */
+
+    /* height: 60vh; */
+    /* width: 30vw; */
+}
