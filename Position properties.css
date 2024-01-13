@@ -1,0 +1,40 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box1{
+    position: static;
+    /* background-color: red; */
+    top: 50px;/* position can not be changed in static */
+    background-image: url("/img.jpg");
+    background-size: cover;
+}
+#box2{
+    position: relative;
+    background-color: green;
+    top: 10px;
+    left: 20px;
+}
+#box3{
+    position: absolute;
+    background-color: blue;
+    top: 10px;
+    /* left: 20px; */
+    z-index: -1;
+}
+#box4{
+    position: fixed;
+    background-color: yellow;
+    right: 10px;
+}
+
+#box5{
+    position: sticky;
+    background-color: burlywood;
+    top: 70px;
+
+}
