@@ -1,0 +1,25 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    /* transition-property: all;
+    transition-duration: ease-in ;
+    transition-delay: 2s; */
+    /* transition: all 2s ease-in 0.5s; */
+
+    /* transform: rotate(45deg); */
+    /* transform: scale(1,2); */
+}
+div:hover{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    /* transform: scale(2); */
+    /* transform: translate(150px); */
+    transform: skew(45deg);
+    transition: all 2s  ;
+}
+div:active{
+    background-color: green;
+}
