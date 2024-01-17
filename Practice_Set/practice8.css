@@ -1,0 +1,15 @@
+.Loader{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 10px solid rgba(80, 223, 255, 0.866);
+    border-top: 10px solid rgb(66, 138, 232);
+    border-radius: 50%;
+    animation: Loader  5s ease-in-out 0.25s infinite normal;
+}
+
+@keyframes Loader {
+    0% { transform: rotate(0deg);}
+
+    100% { transform: rotate(360deg);}
+}
