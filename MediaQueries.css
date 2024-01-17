@@ -1,0 +1,38 @@
+/* Define styles for a div element */
+div {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+}
+
+/* Media query: When the width is exactly 600px */
+@media (width: 600px) {
+    /* Change the background color to green within this media query */
+    div {
+        background-color: green;
+    }
+}
+
+/* Media query: When the maximum width is 500px */
+@media (max-width: 500px) {
+    /* Change the background color to blue within this media query */
+    div {
+        background-color: blue;
+    }
+}
+
+/* Media query: When the minimum width is 900px */
+@media (min-width: 900px) {
+    /* Change the background color to pink within this media query */
+    div {
+        background-color: pink;
+    }
+}
+
+/* Media query: When the width is between 600px and 800px (inclusive) */
+@media (min-width: 600px) and (max-width: 800px) {
+    /* Change the background color to blueviolet within this media query */
+    div {
+        background-color: blueviolet;
+    }
+}
